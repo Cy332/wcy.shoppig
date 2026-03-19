@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name":"迷彩運動風上衣",
+        "price": 580,
+        "image": "images/p1.png"
+    },
+    {
+        "id": 2,
+        "name":"低腰闊腿褲",
+        "price": 799,
+        "image": "images/p2.png"
+    },
+    {
+        "id": 3,
+        "name":"百褶超迷你短裙",
+        "price": 680,
+        "image": "images/p3.png"
+    },
+    {
+        "id": 4,
+        "name":"酷帥黑色冷帽",
+        "price": 340,
+        "image": "images/p4.png"
+    },
+    {
+        "id": 5,
+        "name":"街頭風銀色短項鍊",
+        "price": 360,
+        "image": "images/p5.png"
+    }
+
+]
